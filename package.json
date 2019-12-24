@@ -1,8 +1,8 @@
 {
-  "name": "jsmenu",
+  "name": "mobilemenu",
   "version": "1.0.0",
   "description": "",
-  "main": "jsmenu.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --progress --watch --mode=development",
@@ -13,11 +13,11 @@
     "url": "git+https://github.com/winplam/example-menus.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/winplam/example-menus/issues"
+    "url": "https://github.com/winplam/mobile-menus/issues"
   },
-  "homepage": "https://github.com/winplam/example-menus#readme",
+  "homepage": "https://github.com/winplam/mobile-menus#readme",
   "devDependencies": {
     "webpack": "^4.41.4",
     "webpack-cli": "^3.3.10",
